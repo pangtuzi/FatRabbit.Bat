@@ -1,0 +1,17 @@
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\FatRabbit.Bat.dll
+E:\web\github\FatRabbitServiceDiscover\Demo\bin\Debug\netcoreapp2.1\FatRabbit.Bat.pdb
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CopyComplete
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.RazorAssemblyInfo.cache
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.RazorAssemblyInfo.cs
+E:\web\github\FatRabbitServiceDiscover\Demo\obj\Debug\netcoreapp2.1\Demo.RazorTargetAssemblyInfo.cache

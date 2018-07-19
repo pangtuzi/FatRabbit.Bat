@@ -1,0 +1,6 @@
+E:\web\github\FatRabbitServiceDiscover\FatRabbit.ServiceDiscover\bin\Debug\netcoreapp2.1\FatRabbit.ServiceDiscover.deps.json
+E:\web\github\FatRabbitServiceDiscover\FatRabbit.ServiceDiscover\bin\Debug\netcoreapp2.1\FatRabbit.ServiceDiscover.dll
+E:\web\github\FatRabbitServiceDiscover\FatRabbit.ServiceDiscover\obj\Debug\netcoreapp2.1\FatRabbit.ServiceDiscover.csprojAssemblyReference.cache
+E:\web\github\FatRabbitServiceDiscover\FatRabbit.ServiceDiscover\obj\Debug\netcoreapp2.1\FatRabbit.ServiceDiscover.csproj.CoreCompileInputs.cache
+E:\web\github\FatRabbitServiceDiscover\FatRabbit.ServiceDiscover\obj\Debug\netcoreapp2.1\FatRabbit.ServiceDiscover.AssemblyInfoInputs.cache
+E:\web\github\FatRabbitServiceDiscover\FatRabbit.ServiceDiscover\obj\Debug\netcoreapp2.1\FatRabbit.ServiceDiscover.AssemblyInfo.cs
