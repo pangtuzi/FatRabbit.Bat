@@ -17,7 +17,7 @@ namespace FatRabbit.Bat
 
 
         /// <summary>
-        /// 增加客户端地址和名称
+        /// 配置服务发现客户端地址和名称
         /// </summary>
         /// <param name="app"></param>
         /// <param name="clientAddress">服务发现客户端地址</param>
@@ -33,7 +33,21 @@ namespace FatRabbit.Bat
             _serviceDiscover.ClientConfig = cc;
             return app;
         }
+        //配置服务发现客户端
+        public static IApplicationBuilder AddDiscoverClient(this IApplicationBuilder app, Action<ClientConfig> clientConfigOptions)
+        {
+            ClientConfig cc = new ClientConfig();
+            clientConfigOptions(cc);
+             _serviceDiscover = app.ApplicationServices.GetService<IServiceDiscover>();
+            _serviceDiscover.ClientConfig = cc;
+            return app;
+        }
 
+
+
+
+
+        //配置服务端
         public static IApplicationBuilder AddDiscoverService(this IApplicationBuilder app, string ip, string port)
         {
             ServiceConfig sc = new ServiceConfig(ip, port);
@@ -41,6 +55,18 @@ namespace FatRabbit.Bat
             _serviceDiscover.ServiceConfig = sc;
             return app;
         }
+        //配置服务端
+        public static IApplicationBuilder AddDiscoverService(this IApplicationBuilder app,Action<ServiceConfig> discoverServiceConfigOptions)
+        {
+            var sc = new ServiceConfig();
+            discoverServiceConfigOptions(sc);
+            _serviceDiscover = app.ApplicationServices.GetService<IServiceDiscover>();
+            _serviceDiscover.ServiceConfig = sc;
+            return app;
+        }
+
+
+
 
         public static void RegisterService(this IApplicationBuilder app)
         {
